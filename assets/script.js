@@ -46,7 +46,7 @@ $(document).ready(function () {
   time()
 })
 
-var currentDate = dayjs().format('dddd, MMMM DD YYYY hh:m a ')
+var currentDate = dayjs().format('dddd, MMMM DD YYYY hh:mm a ')
 $("#currentDay").html(currentDate)
 
 
