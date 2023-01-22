@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this project is to provide the user with a daily planner. The planner provides the current date and time in the header. The day is then divided into hour sections from 8 am to 5 pm (business hours). Depending on the current hour that the user opens the planner, the time blocks wille ither show grey for past hours, red for the current hour, and green for future hours. The user can then add comments into the planner and save them to the page.
+The purpose of this project is to provide the user with a daily planner. The planner provides the current date and time in the header. The day is then divided into hour sections from 8 am to 5 pm (business hours). Depending on the current hour that the user opens the planner, the time blocks wille ither show grey for past hours, light blue for the current hour, and burnt orange for future hours. The user can then add comments into the planner and save them to the page.
 
 ## Installation
 
